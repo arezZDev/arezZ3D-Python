@@ -6,4 +6,5 @@ y la parte de Python que hace toda la conexion y programación para conectar con
 Para usar el archivo arezZ3D.py por linea de comandos:
 
 Sintaxis: python arezZ3D.py %puerto% GCODE
+
 Ejemplo: python arezZ3D.py COM5 G28
